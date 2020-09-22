@@ -1,2 +1,3 @@
-# python-best-practises
-Notebook for python's best practices gathered from all kinds of sources
+# Python Best Practices
+
+## My notebook for snippets of pythonic idioms gathered from various sources.
